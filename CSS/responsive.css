@@ -71,7 +71,7 @@
         text-align: center;
     }
 
-    main .container-manu img {
+    main .container-menu img {
         display: none;
     }
 
@@ -124,5 +124,3 @@
         transition: 0.5s ease transform;
     }
 }
-
-
